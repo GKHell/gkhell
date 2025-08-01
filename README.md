@@ -1,6 +1,4 @@
-# 👋 Hey, I'm Gopal (aka Stark) ⚡
 
-> 💻 Code warrior by day — AI dreamer by night.
 
 ```js
 const life = {
